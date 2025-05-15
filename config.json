@@ -1,0 +1,20 @@
+{
+    "token": "TOKEN",
+    "guildId": "TON_SERVER",
+    "allowe": "ACESSE_ADD_ACCOUNT",
+    "wl": "ROLE_BLACKLIST",
+    "cFree": "CHANNELFREEGEN",
+    "cVip": "CHANNELPREMIUMS",
+    "cooldownTimefree": 10,
+    "cooldownTimevip": 30,
+    "admin": "ROLE_ADMIN",
+    "vip": "ROLE_VIP",
+    "free": "ROLE_FREE",
+    "Logs": "LOGS_ADMIN",
+    "nitro": "CHANNELS_NITRO"
+    
+
+
+    
+
+}
